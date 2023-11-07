@@ -1,0 +1,7 @@
+## Interface: 100200
+## Title: ETracer
+## Notes: Lightweight /etrace enhancer.
+## Version: @project-version@
+## Author: ToppleTheNun
+
+index.lua

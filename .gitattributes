@@ -1,0 +1,14 @@
+# Basic .gitattributes for a Lua repo.
+
+# Source files
+# ============
+*.lua       text
+*.toc       text
+
+# Luadoc output
+# =============
+*.html      text diff=html
+*.css       text diff=css
+
+# Apply override to all files in the directory
+*.md linguist-detectable
